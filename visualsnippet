@@ -1,5 +1,0 @@
-Dim number as Double
-if Double.TryParse(TextBox1.Text, number) = False Then
-            TextBox2.Text = "Errore"
-            TextBox2.BackColor = Color.Red
-            TextBox2.ForeColor = Color.White
